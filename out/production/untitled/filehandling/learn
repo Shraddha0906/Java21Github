@@ -1,0 +1,10 @@
+File writer = outputStream
+File reader= InputStream
+
+bufferOutputStream = for write
+bufferInputStream= for read
+
+
+
+sequenceOutputStream = used for read the 2 files
+byteOutputStream= used for write 2 files

@@ -1,0 +1,46 @@
+
+Throwable-
+
+          -Exception(checked Exception)
+               - SqlException
+               - ClassNotFoundException
+               - IoException
+               - FileNotFoundException
+               - RuntimeException(Unchecked Exception)
+                          - NullPointerException
+                          - NumberFormatException
+                          - ArithmeticException
+                          - ClassCastException
+                          - IndexOutOfBondException
+                                     - ArrayIndexOutOfBoundException
+                                     - StringIndexOutOfBoundException
+
+          -error
+               - StackOverFlowError
+               - OutMemoryError
+               - UnknownError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

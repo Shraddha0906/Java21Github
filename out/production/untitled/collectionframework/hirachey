@@ -1,0 +1,11 @@
+                                                  Iterable(I)-function interface
+
+                                                 Collection(I)
+
+        List(I)                             Queue(I)                              Set(I)
+          - ArrayList(C)                            PriorityQueue(C)                      - HashSet(C)
+          - LinkedList(C)                        Deque(I)                                 - LinkedHashSet(C)
+          - Vector(C)                                   -ArrayDeque(C)
+
+  Q. difference between set and list = list contain duplicate values and set can not contain duplicate value
+  Q. difference between vector and Arraylist = Vector is Synchronized and ArrayList is not Synchronized
